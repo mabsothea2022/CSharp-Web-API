@@ -1,0 +1,15 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-EmployeeTimeSheetAPI",
+      "appliesTo": "/",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "task-EmployeeTimeSheetAPI",
+      "appliesTo": "/",
+      "type": "launch"
+    }
+  ]
+}
